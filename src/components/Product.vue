@@ -9,8 +9,8 @@
             </div>
             <div class="star">
                 <span v-for="i in 5">
-                    <img src="../assets/star-yellow.svg" alt="" v-if="i <= rate" />
-                    <img src="../assets/star-white.svg" alt="" v-else />
+                    <img src="../assets/img/yellow-star.svg" alt="" v-if="i <= rate" />
+                    <img src="../assets/img/white-star.svg" alt="" v-else />
                 </span>
                 <span class="rate">({{ rate }})</span>
             </div>

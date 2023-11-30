@@ -1,7 +1,7 @@
 <template>
     <div class="btn">
         <span>Add</span>
-        <img src="../assets/add-btn.svg" alt="" />
+        <img src="../assets/img/add-btn.svg" alt="" />
     </div>
 </template>
 
